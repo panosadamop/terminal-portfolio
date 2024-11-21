@@ -52,25 +52,25 @@ const socials = [
   {
     id: 1,
     title: "GitHub",
-    url: "https://github.com/satnaing",
+    url: "https://github.com/panosadamop",
     tab: 3,
   },
   {
     id: 2,
-    title: "Dev.to",
-    url: "https://dev.to/satnaing",
+    title: "Medium.com",
+    url: "https://medium.com/@panagiotis.adamopoulos",
     tab: 3,
   },
   {
     id: 3,
-    title: "Facebook",
-    url: "https://www.facebook.com/satnaing.dev",
+    title: "Linkedin",
+    url: "https://www.linkedin.com/in/padamopoulos/",
     tab: 1,
   },
   {
     id: 4,
-    title: "Instagram",
-    url: "https://instagram.com/satnaing.dev",
+    title: "Drupal",
+    url: "https://www.drupal.org/u/dnacreative",
     tab: 0,
   },
 ];

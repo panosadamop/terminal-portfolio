@@ -1,7 +1,7 @@
 {
-  "name": "Terminal Portfolio by SN",
+  "name": "Terminal Website",
   "short_name": "Terminal",
-  "description": "Sat Naing's terminal portfolio website coded with ReactJS.",
+  "description": "Panagiotis Adamopoulos personal website coded with ReactJS.",
   "start_url": "/",
   "icons": [
     {

@@ -10,7 +10,8 @@ const Gui: React.FC = () => {
 
   /* ===== check current command makes redirect ===== */
   if (rerender && currentCommand[0] === "gui") {
-    window.open("https://satnaing.dev/", "_blank");
+    // window.open("https://panosadamop.github.io/", "_blank");
+    window.open("https://padamopoulos.gr/gui/index-gui.html", "_blank");
   }
 
   return <span></span>;
