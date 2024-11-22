@@ -22,7 +22,7 @@ const eduBg = [
   },
   {
     title: "MSc in Materials Science",
-    desc: "National Technical University of Athens | 2005 - 2007",
+    desc: "National Technical University of Athens | 2005 ~ 2007",
   },
   {
     title: "Diploma in Chemical Engineering",

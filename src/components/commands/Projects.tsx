@@ -148,19 +148,19 @@ const projects = [
     id: 16,
     title: "Public - Media Markt",
     desc: "Integration with Algolia Search Provider and development of the portals' search functionality.",
-    url: "https://astro-paper.pages.dev/",
+    url: "https://public.gr/",
   },
   {
     id: 17,
     title: "Tsakiris Chips",
     desc: "A minimal, accessible and SEO-friendly website for tsakirischips.gr.",
-    url: "https://astro-paper.pages.dev/",
+    url: "https://tsakirischips.gr/",
   },
   {
     id: 18,
     title: "Coffee Island",
     desc: "Design and Implementation of a custom solution for HACPP.",
-    url: "https://astro-paper.pages.dev/",
+    url: "https://www.coffeeisland.gr/",
   },
   {
     id: 19,

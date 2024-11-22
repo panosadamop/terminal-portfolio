@@ -58,7 +58,13 @@ ______                       _       _   _
           `}
           </PreNameMobile>
         </PreWrapper>
-        <div>Welcome to my personal website. (Version 1.0.1)</div>
+        <div>
+          Welcome to my personal website. If you want to proceed with the GUI
+          version please click{" "}
+           <Link href="https://padamopoulos.gr/gui/index-gui.html" target={"_blank"}>GUI version</Link>
+          {" "} else please type `<Cmd>help</Cmd>` to see the available commands in
+          terminal mode.
+        </div>
         <Seperator>----</Seperator>
         <div>
           You can check me repositories at my{" "}
@@ -66,10 +72,6 @@ ______                       _       _   _
             GitHub repo
           </Link>
           .
-        </div>
-        <Seperator>----</Seperator>
-        <div>
-          For a list of available commands, type `<Cmd>help</Cmd>`.
         </div>
       </div>
       <div className="illu-section">

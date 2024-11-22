@@ -11,10 +11,10 @@ const About: React.FC = () => {
         Hi, my name is <HighlightSpan>Panagiotis Adamopoulos</HighlightSpan>!
       </p>
       <p>
-        I'm <HighlightAlt>an Enterprise Architect and Delivery Manager</HighlightAlt> at Netcompany - Intrasoft.
+        I'm <HighlightAlt>an Enterprise Architect and Delivery Manager</HighlightAlt> at Kotsovolos - Part of PPC Group.
       </p>
       <p>
-        I am passionate about writing codes and <br />
+        I am passionate about designing and writing codes and <br />
         developing web applications to solve real-life challenges.
       </p>
     </AboutWrapper>
