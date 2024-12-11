@@ -40,7 +40,7 @@ const Projects: React.FC = () => {
     <div data-testid="projects">
       <ProjectsIntro>
         “Talk is cheap. Show me the code”? I got you. <br />
-        Here are some indicative projects that I have worked on and you shouldn't misss
+        Here are some indicative projects that I have worked on and you shouldn't miss
       </ProjectsIntro>
       {projects.map(({ id, title, desc }) => (
         <ProjectContainer key={id}>
