@@ -15,7 +15,7 @@ p.s. I am available for Freelance hire (UI design, web development). email: mill
     - main
     - typography
     - button
-    - link 
+    - link
     - divider
     - section title
     - spaces
@@ -270,6 +270,10 @@ a {
 
 .mil-center {
   text-align: center;
+}
+
+.mil-justify {
+  text-align: justify;
 }
 
 .mil-left {

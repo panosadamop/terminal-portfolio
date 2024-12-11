@@ -61,15 +61,15 @@ ______                       _       _   _
         <div>
           Welcome to my personal website. If you want to proceed with the GUI
           version please click{" "}
-           <Link href="https://padamopoulos.gr/gui/index-gui.html" target={"_blank"}>GUI version</Link>
+           <Link href="https://gui.padamopoulos.gr/" target={"_blank"}>GUI version</Link>
           {" "} else please type `<Cmd>help</Cmd>` to see the available commands in
           terminal mode.
         </div>
         <Seperator>----</Seperator>
         <div>
-          You can check me repositories at my{" "}
+          Additionally, you can check me repositories at my{" "}
           <Link href="https://github.com/panosadamop/" target={"_blank"}>
-            GitHub repo
+            GitHub Account
           </Link>
           .
         </div>

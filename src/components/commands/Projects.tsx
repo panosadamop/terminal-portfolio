@@ -48,7 +48,7 @@ const Projects: React.FC = () => {
           <ProjectDesc>{desc}</ProjectDesc>
         </ProjectContainer>
       ))}
-      <Usage cmd="projects" marginY />
+      {/*<Usage cmd="projects" marginY />*/}
     </div>
   );
 };
