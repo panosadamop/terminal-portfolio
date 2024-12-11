@@ -56,9 +56,9 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Netcompany ERMIS",
-    desc: "Netcompany-Intrasoft Customs Solution",
-    url: "https://netcompany.com/public-sector/customs/",
+    title: "Netcompany EFKA",
+    desc: "Netcompany-Intrasoft Social Security Solution",
+    url: "https://netcompany.com/public-sector/social-and-interior/",
   },
   {
     id: 2,
